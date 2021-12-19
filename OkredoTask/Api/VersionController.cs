@@ -1,0 +1,19 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
+
+namespace OkredoTask.Web.Api
+{
+    public class VersionController : BaseApiController
+    {
+        [HttpGet]
+        public ActionResult<string> Info()
+        {
+            var assembly = typeof(Startup).Assembly;
+
+            var creationDate = System.IO.File.GetCreationTime(assembly.Location);
+            var version = FileVersionInfo.GetVersionInfo(assembly.Location).ProductVersion;
+
+            return Ok($"Version: {version}, Last Updated: {creationDate}");
+        }
+    }
+}

@@ -1,0 +1,284 @@
+2021-12-09 20:10:09.8542 Info Message Template Auto Format enabled
+2021-12-09 20:10:09.8637 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-09 20:10:09.9159 Info Adding target FileTarget(Name=alldata)
+2021-12-09 20:10:09.9414 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-09 20:11:46.9435 Info Message Template Auto Format enabled
+2021-12-09 20:11:46.9435 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-09 20:11:47.0140 Info Adding target FileTarget(Name=alldata)
+2021-12-09 20:11:47.0766 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-18 13:00:35.2794 Info Message Template Auto Format enabled
+2021-12-18 13:00:35.2794 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 13:00:35.3213 Info Adding target FileTarget(Name=alldata)
+2021-12-18 13:00:35.3415 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\NLog.config
+2021-12-18 13:00:35.3535 Info Configuration initialized.
+2021-12-18 13:00:35.3535 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2021-12-18 13:00:36.4968 Info AppDomain Shutting down. Logger closing...
+2021-12-18 13:00:36.5116 Info Logger has been shut down.
+2021-12-18 13:04:35.0092 Info Message Template Auto Format enabled
+2021-12-18 13:04:35.0092 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 13:04:35.0496 Info Adding target FileTarget(Name=alldata)
+2021-12-18 13:04:35.0699 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\NLog.config
+2021-12-18 13:04:35.0699 Info Configuration initialized.
+2021-12-18 13:04:35.0699 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2021-12-18 13:04:36.0555 Info AppDomain Shutting down. Logger closing...
+2021-12-18 13:04:36.0706 Info Logger has been shut down.
+2021-12-18 13:04:53.7657 Info Message Template Auto Format enabled
+2021-12-18 13:04:53.7725 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 13:04:53.8091 Info Adding target FileTarget(Name=alldata)
+2021-12-18 13:04:53.8317 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\NLog.config
+2021-12-18 13:04:53.8462 Info Configuration initialized.
+2021-12-18 13:04:53.8462 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2021-12-18 13:04:54.8706 Info AppDomain Shutting down. Logger closing...
+2021-12-18 13:04:54.8846 Info Logger has been shut down.
+2021-12-18 13:05:07.7122 Info Message Template Auto Format enabled
+2021-12-18 13:05:07.7122 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 13:05:07.7519 Info Adding target FileTarget(Name=alldata)
+2021-12-18 13:05:07.7728 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\NLog.config
+2021-12-18 13:05:07.7728 Info Configuration initialized.
+2021-12-18 13:05:07.7728 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2021-12-18 13:05:09.0010 Info AppDomain Shutting down. Logger closing...
+2021-12-18 13:05:09.0158 Info Logger has been shut down.
+2021-12-18 13:05:23.2787 Info Message Template Auto Format enabled
+2021-12-18 13:05:23.2883 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 13:05:23.3535 Info Adding target FileTarget(Name=alldata)
+2021-12-18 13:05:23.3992 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-18 15:34:17.6194 Info Message Template Auto Format enabled
+2021-12-18 15:34:17.6274 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 15:34:17.6843 Info Adding target FileTarget(Name=alldata)
+2021-12-18 15:34:17.7113 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-18 15:35:05.8997 Info Message Template Auto Format enabled
+2021-12-18 15:35:05.9086 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 15:35:05.9718 Info Adding target FileTarget(Name=alldata)
+2021-12-18 15:35:06.0069 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-18 15:37:09.7019 Info Message Template Auto Format enabled
+2021-12-18 15:37:09.7098 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 15:37:09.7557 Info Adding target FileTarget(Name=alldata)
+2021-12-18 15:37:09.7791 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-18 16:46:44.4019 Info Message Template Auto Format enabled
+2021-12-18 16:46:44.4262 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 16:46:44.6154 Info Adding target FileTarget(Name=alldata)
+2021-12-18 16:46:44.6831 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-18 16:47:20.3909 Info Message Template Auto Format enabled
+2021-12-18 16:47:20.3992 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 16:47:20.4820 Info Adding target FileTarget(Name=alldata)
+2021-12-18 16:47:20.5922 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-18 16:54:04.7382 Info Message Template Auto Format enabled
+2021-12-18 16:54:04.7382 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 16:54:04.8087 Info Adding target FileTarget(Name=alldata)
+2021-12-18 16:54:04.8343 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-18 17:52:58.3618 Info Message Template Auto Format enabled
+2021-12-18 17:52:58.3703 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 17:52:58.4091 Info Adding target FileTarget(Name=alldata)
+2021-12-18 17:52:58.4325 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\NLog.config
+2021-12-18 17:52:58.4487 Info Configuration initialized.
+2021-12-18 17:52:58.4487 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2021-12-18 17:53:00.2903 Info AppDomain Shutting down. Logger closing...
+2021-12-18 17:53:00.3057 Info Logger has been shut down.
+2021-12-18 17:53:09.4746 Info Message Template Auto Format enabled
+2021-12-18 17:53:09.4746 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 17:53:09.5212 Info Adding target FileTarget(Name=alldata)
+2021-12-18 17:53:09.5450 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\NLog.config
+2021-12-18 17:53:09.5586 Info Configuration initialized.
+2021-12-18 17:53:09.5586 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2021-12-18 17:53:11.0459 Info AppDomain Shutting down. Logger closing...
+2021-12-18 17:53:11.0626 Info Logger has been shut down.
+2021-12-18 18:01:24.8067 Info Message Template Auto Format enabled
+2021-12-18 18:01:24.8247 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 18:01:24.9193 Info Adding target FileTarget(Name=alldata)
+2021-12-18 18:01:24.9926 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-18 18:06:04.9504 Info Message Template Auto Format enabled
+2021-12-18 18:06:04.9700 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 18:06:05.1156 Info Adding target FileTarget(Name=alldata)
+2021-12-18 18:06:05.2218 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-18 19:03:17.5856 Info Message Template Auto Format enabled
+2021-12-18 19:03:17.6051 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 19:03:17.7916 Info Adding target FileTarget(Name=alldata)
+2021-12-18 19:03:17.8907 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-18 19:39:34.7712 Info Message Template Auto Format enabled
+2021-12-18 19:39:34.7712 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 19:39:34.8273 Info Adding target FileTarget(Name=alldata)
+2021-12-18 19:39:34.8511 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-18 19:55:39.8756 Info Message Template Auto Format enabled
+2021-12-18 19:55:39.8918 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 19:55:39.9597 Info Adding target FileTarget(Name=alldata)
+2021-12-18 19:55:39.9908 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-18 19:59:34.6123 Info Message Template Auto Format enabled
+2021-12-18 19:59:34.6218 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 19:59:34.6751 Info Adding target FileTarget(Name=alldata)
+2021-12-18 19:59:34.7089 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 13:32:02.6997 Info Message Template Auto Format enabled
+2021-12-19 13:32:02.6997 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 13:32:02.7408 Info Adding target FileTarget(Name=alldata)
+2021-12-19 13:32:02.7619 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\NLog.config
+2021-12-19 13:32:02.7755 Info Configuration initialized.
+2021-12-19 13:32:02.7755 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2021-12-19 13:32:04.6524 Info AppDomain Shutting down. Logger closing...
+2021-12-19 13:32:04.6653 Info Logger has been shut down.
+2021-12-19 13:32:31.3393 Info Message Template Auto Format enabled
+2021-12-19 13:32:31.3393 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 13:32:31.3794 Info Adding target FileTarget(Name=alldata)
+2021-12-19 13:32:31.3994 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\NLog.config
+2021-12-19 13:32:31.4115 Info Configuration initialized.
+2021-12-19 13:32:31.4115 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2021-12-19 13:32:33.5270 Info AppDomain Shutting down. Logger closing...
+2021-12-19 13:32:33.5387 Info Logger has been shut down.
+2021-12-19 13:34:47.4088 Info Message Template Auto Format enabled
+2021-12-19 13:34:47.4153 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 13:34:47.4490 Info Adding target FileTarget(Name=alldata)
+2021-12-19 13:34:47.4688 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\NLog.config
+2021-12-19 13:34:47.4802 Info Configuration initialized.
+2021-12-19 13:34:47.4802 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2021-12-19 13:34:48.7004 Info AppDomain Shutting down. Logger closing...
+2021-12-19 13:34:48.7142 Info Logger has been shut down.
+2021-12-19 13:37:25.8137 Info Message Template Auto Format enabled
+2021-12-19 13:37:25.8198 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 13:37:25.8531 Info Adding target FileTarget(Name=alldata)
+2021-12-19 13:37:25.8723 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\NLog.config
+2021-12-19 13:37:25.8838 Info Configuration initialized.
+2021-12-19 13:37:25.8838 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2021-12-19 13:37:27.0636 Info AppDomain Shutting down. Logger closing...
+2021-12-19 13:37:27.0796 Info Logger has been shut down.
+2021-12-19 13:37:33.9223 Info Message Template Auto Format enabled
+2021-12-19 13:37:33.9283 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 13:37:33.9610 Info Adding target FileTarget(Name=alldata)
+2021-12-19 13:37:33.9809 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\NLog.config
+2021-12-19 13:37:33.9930 Info Configuration initialized.
+2021-12-19 13:37:33.9930 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2021-12-19 13:37:35.5105 Info AppDomain Shutting down. Logger closing...
+2021-12-19 13:37:35.5236 Info Logger has been shut down.
+2021-12-19 13:40:02.4561 Info Message Template Auto Format enabled
+2021-12-19 13:40:02.4630 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 13:40:02.4981 Info Adding target FileTarget(Name=alldata)
+2021-12-19 13:40:02.5190 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\NLog.config
+2021-12-19 13:40:02.5308 Info Configuration initialized.
+2021-12-19 13:40:02.5308 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2021-12-19 13:40:03.7247 Info AppDomain Shutting down. Logger closing...
+2021-12-19 13:40:03.7247 Info Logger has been shut down.
+2021-12-19 13:40:14.7728 Info Message Template Auto Format enabled
+2021-12-19 13:40:14.7728 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 13:40:14.8120 Info Adding target FileTarget(Name=alldata)
+2021-12-19 13:40:14.8313 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\NLog.config
+2021-12-19 13:40:14.8431 Info Configuration initialized.
+2021-12-19 13:40:14.8431 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2021-12-19 13:40:16.3337 Info AppDomain Shutting down. Logger closing...
+2021-12-19 13:40:16.3337 Info Logger has been shut down.
+2021-12-19 13:40:47.9918 Info Message Template Auto Format enabled
+2021-12-19 13:40:47.9918 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 13:40:48.0677 Info Adding target FileTarget(Name=alldata)
+2021-12-19 13:40:48.0985 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 14:34:07.2407 Info Message Template Auto Format enabled
+2021-12-19 14:34:07.2407 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 14:34:07.3248 Info Adding target FileTarget(Name=alldata)
+2021-12-19 14:34:07.3514 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 14:50:06.7464 Info Message Template Auto Format enabled
+2021-12-19 14:50:06.7464 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 14:50:06.8063 Info Adding target FileTarget(Name=alldata)
+2021-12-19 14:50:06.8339 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 15:01:15.8749 Info Message Template Auto Format enabled
+2021-12-19 15:01:15.8831 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 15:01:15.9643 Info Adding target FileTarget(Name=alldata)
+2021-12-19 15:01:16.0077 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 15:22:04.3733 Info Message Template Auto Format enabled
+2021-12-19 15:22:04.3838 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 15:22:04.5288 Info Adding target FileTarget(Name=alldata)
+2021-12-19 15:22:04.5551 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 16:26:39.0657 Info Message Template Auto Format enabled
+2021-12-19 16:26:39.0762 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 16:26:39.1320 Info Adding target FileTarget(Name=alldata)
+2021-12-19 16:26:39.1608 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 16:54:28.8114 Info Message Template Auto Format enabled
+2021-12-19 16:54:28.8210 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 16:54:28.9018 Info Adding target FileTarget(Name=alldata)
+2021-12-19 16:54:28.9276 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 17:12:38.3909 Info Message Template Auto Format enabled
+2021-12-19 17:12:38.4078 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 17:12:38.4752 Info Adding target FileTarget(Name=alldata)
+2021-12-19 17:12:38.5007 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 17:16:10.9193 Info Message Template Auto Format enabled
+2021-12-19 17:16:10.9347 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 17:16:11.0042 Info Adding target FileTarget(Name=alldata)
+2021-12-19 17:16:11.0291 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 17:28:52.4375 Info Message Template Auto Format enabled
+2021-12-19 17:28:52.5854 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 17:28:52.7495 Info Adding target FileTarget(Name=alldata)
+2021-12-19 17:28:52.9656 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 17:42:10.2976 Info Message Template Auto Format enabled
+2021-12-19 17:42:10.3066 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 17:42:10.3845 Info Adding target FileTarget(Name=alldata)
+2021-12-19 17:42:10.4135 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 17:50:33.8204 Info Message Template Auto Format enabled
+2021-12-19 17:50:33.8388 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 17:50:33.8893 Info Adding target FileTarget(Name=alldata)
+2021-12-19 17:50:33.9239 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 17:55:13.2417 Info Message Template Auto Format enabled
+2021-12-19 17:55:13.2731 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 17:55:13.3265 Info Adding target FileTarget(Name=alldata)
+2021-12-19 17:55:13.3534 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 17:59:10.7431 Info Message Template Auto Format enabled
+2021-12-19 17:59:10.7431 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 17:59:10.8266 Info Adding target FileTarget(Name=alldata)
+2021-12-19 17:59:10.8818 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 18:06:08.9405 Info Message Template Auto Format enabled
+2021-12-19 18:06:08.9569 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 18:06:09.0416 Info Adding target FileTarget(Name=alldata)
+2021-12-19 18:06:09.0771 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 18:12:04.9863 Info Message Template Auto Format enabled
+2021-12-19 18:12:04.9948 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 18:12:05.0469 Info Adding target FileTarget(Name=alldata)
+2021-12-19 18:12:05.0708 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 18:20:41.1289 Info Message Template Auto Format enabled
+2021-12-19 18:20:41.1393 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 18:20:41.2015 Info Adding target FileTarget(Name=alldata)
+2021-12-19 18:20:41.2270 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 18:28:41.9722 Info Message Template Auto Format enabled
+2021-12-19 18:28:41.9830 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 18:28:42.0379 Info Adding target FileTarget(Name=alldata)
+2021-12-19 18:28:42.0695 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 18:32:39.4743 Info Message Template Auto Format enabled
+2021-12-19 18:32:39.4904 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 18:32:39.6150 Info Adding target FileTarget(Name=alldata)
+2021-12-19 18:32:39.6419 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 18:43:15.0055 Info Message Template Auto Format enabled
+2021-12-19 18:43:15.0055 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 18:43:15.1247 Info Adding target FileTarget(Name=alldata)
+2021-12-19 18:43:15.1498 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 18:52:43.1619 Info Message Template Auto Format enabled
+2021-12-19 18:52:43.1619 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 18:52:43.2432 Info Adding target FileTarget(Name=alldata)
+2021-12-19 18:52:43.2803 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 19:12:06.2139 Info Message Template Auto Format enabled
+2021-12-19 19:12:06.2139 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 19:12:06.3186 Info Adding target FileTarget(Name=alldata)
+2021-12-19 19:12:06.3519 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 19:13:34.9519 Info Message Template Auto Format enabled
+2021-12-19 19:13:34.9593 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 19:13:35.0079 Info Adding target FileTarget(Name=alldata)
+2021-12-19 19:13:35.0343 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 19:14:35.3329 Info Message Template Auto Format enabled
+2021-12-19 19:14:35.3414 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 19:14:35.3953 Info Adding target FileTarget(Name=alldata)
+2021-12-19 19:14:35.4213 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 19:15:12.3861 Info Message Template Auto Format enabled
+2021-12-19 19:15:12.3965 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 19:15:12.4843 Info Adding target FileTarget(Name=alldata)
+2021-12-19 19:15:12.5525 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 19:16:56.2919 Info Message Template Auto Format enabled
+2021-12-19 19:16:56.3034 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 19:16:56.3894 Info Adding target FileTarget(Name=alldata)
+2021-12-19 19:16:56.4276 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 19:17:55.0342 Info Message Template Auto Format enabled
+2021-12-19 19:17:55.0442 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 19:17:55.0978 Info Adding target FileTarget(Name=alldata)
+2021-12-19 19:17:55.1322 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 19:18:40.9587 Info Message Template Auto Format enabled
+2021-12-19 19:18:40.9751 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 19:18:41.0529 Info Adding target FileTarget(Name=alldata)
+2021-12-19 19:18:41.0838 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 19:21:15.7539 Info Message Template Auto Format enabled
+2021-12-19 19:21:15.7673 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 19:21:15.8409 Info Adding target FileTarget(Name=alldata)
+2021-12-19 19:21:15.8909 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
+2021-12-19 19:23:56.7719 Info Message Template Auto Format enabled
+2021-12-19 19:23:56.7974 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-19 19:23:56.8536 Info Adding target FileTarget(Name=alldata)
+2021-12-19 19:23:56.8805 Info Validating config: TargetNames=alldata, ConfigItems=21, FilePath=C:\Users\augis\source\repos\OkredoTask\OkredoTask\bin\Debug\net6.0\nlog.config
