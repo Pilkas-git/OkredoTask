@@ -35,5 +35,6 @@ Posts order, fills address information, phone, email
 
 ## Additional information
 
+* DbSchema:  
 ![DB schema image](https://github.com/Pilkas-git/OkredoTask/blob/master/DbSchema.svg)
 * Application targets .NET 6
