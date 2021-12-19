@@ -56,7 +56,6 @@ namespace OkredoTask.Web.Controllers
         /// <summary>
         /// Gets user order list
         /// </summary>
-        /// <param name="userId"></param>
         /// <returns></returns>
         [HttpGet]
         public async Task<IActionResult> GetOrdersByUserIdAsync()
